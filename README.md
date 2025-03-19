@@ -36,3 +36,8 @@ This project uses HackRF One to intercept ADS-B signals from aircraft, decoding 
 ## Tools & Skills
 - **Tools:** HackRF One, Python, dump1090, Folium.
 - **Skills:** SDR, signal processing, hardware integration, data visualization.
+
+
+## Future Enhancements
+- Add real-time web dashboard.
+- Filter aircraft by region or altitude.
